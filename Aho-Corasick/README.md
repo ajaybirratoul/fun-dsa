@@ -1,4 +1,4 @@
-# Aho-Corasick Algorithm Implementation in Rust
+# Aho-Corasick Algorithm
 
 This is a Rust implementation of the Aho-Corasick algorithm, a string-searching algorithm that efficiently finds multiple patterns in a given text. The Aho-Corasick algorithm constructs a trie-like data structure to search for multiple patterns simultaneously.
 
