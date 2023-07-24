@@ -1,4 +1,4 @@
-# Van Emde Boas Tree (VEB Tree) Implementation in Go
+# Van Emde Boas Tree (VEB Tree)
 
 This is a Go implementation of the Van Emde Boas Tree (VEB Tree), a specialized data structure that provides efficient search, insertion, and deletion operations for elements in a universe of size 2^k for some integer k.
 
