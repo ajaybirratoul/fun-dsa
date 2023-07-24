@@ -1,5 +1,4 @@
-# Quadtree Implementation in C++
-
+# Quadtree
 This is a C++ implementation of a basic Quadtree, a data structure used for spatial partitioning in 2D space. The Quadtree allows efficient storing and retrieval of points in a 2D space, making it useful for various applications like collision detection, range queries, and spatial indexing.
 
 ## How the Quadtree Works
