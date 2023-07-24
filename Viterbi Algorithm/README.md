@@ -1,5 +1,4 @@
-# Viterbi Algorithm Implementation in Go
-
+# Viterbi Algorithm
 This is a Go implementation of the Viterbi Algorithm, a dynamic programming algorithm used to find the most likely sequence of hidden states in a Hidden Markov Model (HMM). The Viterbi Algorithm is widely used in various applications, including speech recognition, natural language processing, and bioinformatics.
 
 ## How the Viterbi Algorithm Works
